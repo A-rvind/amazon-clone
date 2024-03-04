@@ -1,4 +1,4 @@
-**Amazon** **Clone**
+**Amazon** **Clone**<br>
 I have created Clone of Home Page and sub pages of amazon app site.<br/>
 In the future, I plan to incorporate additional features such as checkout, cart page functionalities, and a search feature for items into the project..<br> 
 Preview : <br/>
